@@ -7,8 +7,7 @@ Some recipes for doing with serverless technologies
 * Simple [Marco Polo AWS Lambda](https://github.com/pratik-1/serverless_functions/blob/master/marco-polo-lambda.py)
 * [Marco Polo Step Function](https://github.com/pratik-1/serverless_functions/blob/master/marco-polo-step-function.json)
 
-![Screen Shot 2020-11-30 at 7 46 07 PM](https://user-images.githubusercontent.com/58792/100682733-befd5c00-3344-11eb-837c-2916867c0ac7.png)
-
+![Screenshot 2022-04-06 154319](https://user-images.githubusercontent.com/37976329/162001685-6894a9af-a407-4298-b8b7-9df9e9a68d69.jpg)
 
 * [S3 Image Label Bucket](https://github.com/pratik-1/serverless_functions/blob/master/aws-lambda-image-label-s3-trigger.py)
 
