@@ -1,16 +1,16 @@
 # serverless-cookbook
 Some recipes for doing with serverless technologies
 
-[![Python application test with Github Actions](https://github.com/noahgift/serverless-cookbook/actions/workflows/python-publish.yml/badge.svg)](https://github.com/noahgift/serverless-cookbook/actions/workflows/python-publish.yml)
+[![Python application test with Github Actions](https://github.com/pratik-1/serverless_functions/actions/workflows/python-publish.yml/badge.svg)](https://github.com/pratik-1/serverless_functions/actions/workflows/python-publish.yml)
 
 ### AWS
-* Simple [Marco Polo AWS Lambda](https://github.com/noahgift/serverless-cookbook/blob/main/marcopololambda.py)
-* [Marco Polo Step Function](https://github.com/noahgift/serverless-cookbook/blob/main/marcopolostepfunction.json)
+* Simple [Marco Polo AWS Lambda](https://github.com/pratik-1/serverless_functions/blob/master/marco-polo-lambda.py)
+* [Marco Polo Step Function](https://github.com/pratik-1/serverless_functions/blob/master/marco-polo-step-function.json)
 
 ![Screen Shot 2020-11-30 at 7 46 07 PM](https://user-images.githubusercontent.com/58792/100682733-befd5c00-3344-11eb-837c-2916867c0ac7.png)
 
 
-* [S3 Image Label Bucket](https://github.com/noahgift/serverless-cookbook/blob/main/aws-lambda-image-label-s3-trigger.py)
+* [S3 Image Label Bucket](https://github.com/pratik-1/serverless_functions/blob/master/aws-lambda-image-label-s3-trigger.py)
 
 By placing an image into an S3 bucket the AWS Lambda triggers an API call to Computer Vision Service
 
